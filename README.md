@@ -12,7 +12,7 @@ Here is what you need to do :
 
 2) Create an bundle named "coreBundle"
 
-3) install this bootstrap theme http://startbootstrap.com/template-overviews/sb-admin-2/
+3) Install this bootstrap theme http://startbootstrap.com/template-overviews/sb-admin-2/
 
 3) Create an new page called "list_requests"
 
@@ -23,5 +23,12 @@ Here is what you need to do :
 6) Create an url like api/requests/list that will return the data you have imported as JSON Restfully
 
 7) When finish commit all your stuff to an new branch named as "FirstName_LastName_full-stack-test_current_date"
+
+I have already set up server side for you (apache2 + mod5-php). You can install server packages if you want.
+
+The site folder's is /var/www/html/test.swabbl.com/
+I have set up the root document on /var/www/html/test.swabbl.com/web, you can change it if needed
+
+The host is set on test.swabbl.com
 
 Have fun :)
